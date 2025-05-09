@@ -60,8 +60,7 @@ lib/
 
 ## 📷 畫面預覽
 
-![翻譯操作示意](https://github.com/blackman5566/tranzly_flutter_demo/blob/main/demo.gif)
----
+<img src="[https://your-url.gif](https://github.com/blackman5566/tranzly_flutter_demo/blob/main/demo.gif)" width="300" />
 
 ## 📄 License
 
