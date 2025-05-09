@@ -1,4 +1,4 @@
-# 🇨🇳 翻譯小工具（Flutter 版）
+# 翻譯小工具（Flutter 版）
 
 本專頁是一個簡單的中翻外翻譯應用，支援多語言切換與即時翻譯，實作上使用 Flutter + Riverpod 架構完成。  
 你可以自由輸入中文內容並選擇目標語言，點擊按鈕即可立即翻譯。
@@ -60,7 +60,7 @@ lib/
 
 ## 📷 畫面預覽
 
-![翻譯操作示意](https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif](https://github.com/blackman5566/tranzly_flutter_demo/blob/main/demo.gif)
+![翻譯操作示意](https://github.com/blackman5566/tranzly_flutter_demo/blob/main/demo.gif)
 ---
 
 ## 📄 License
